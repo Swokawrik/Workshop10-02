@@ -1,0 +1,104 @@
+.header-wrapper {
+    background-color: black !important;
+}
+
+.title {
+    color: black !important;
+}
+
+.infos {
+    background-color: white !important;
+}
+
+.dropdown a {
+    background-color: white !important;
+}
+
+.bloc>.data {
+    background-color: black !important;
+}
+
+a {
+    color: white !important;
+}
+
+.timeline span:first-child {
+    color: white !important;
+}
+
+.timeline .date {
+    color: white !important;
+}
+
+section article p.warning a {
+        color: white !important;
+}
+
+section article p.warning {
+    color: white !important;
+}
+
+section article {
+    background-color: black !important;
+}
+
+form.filter.course .datatree>dl>dd {
+    background-color: black !important;
+}
+
+.datagrid .overflow table tbody td {
+    background-color: black !important;
+}
+
+div.datagrid table tbody td {
+    color: white !important;
+}
+
+form.filter.course .datatree > dl dt.event .label {
+    color: black !important;
+}
+
+/* #planning #content>.bloc.main { */
+    /* background-color: red !important; */
+/* } */
+
+/* .planner.daysview .appoints .appoint h4 { */
+    /* background-color: red !important; */
+/* } */
+
+#planning .calendar .appoint.tp.event_registered h4 {
+    background-color: red !important;
+}
+
+#planning #content>.bloc.main {
+    background-color: black !important;
+}
+
+#footer .timezone {
+    color: white !important;
+}
+
+#content .bloc {
+    background-color: black !important;
+}
+
+.planner.daysview > .days .top table td {
+    background-color: black !important;
+}
+
+#sidebar {
+    background-color: black !important;
+}
+
+.planner .top {
+    color: white !important;
+    background-color: black !important;
+}
+
+.planner .v-header {
+    color: white !important;
+    background-color: black !important;
+}
+/* #planning .calendar .appoint.perso_registered, #planning .calendar .appoint.perso_registered h4, #planning .calendar .appoint.event_registered, #planning .calendar .appoint.event_registered h4, #planning .calendar .appoint.prof_inst, #planning .calendar .appoint.prof_inst h4, #planning .calendar .appoint.accept, #planning .calendar .appoint.accept h4, #planning .calendar .appoint.module_available, #planning .calendar .appoint.module_available h4, #planning .calendar .appoint.module_registered, #planning .calendar .appoint.module_registered h4 { */
+    /* background-color: red !important; */
+/* } */
